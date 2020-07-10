@@ -4,6 +4,8 @@
       <w>doctype</w>
       <w>gcloud</w>
       <w>jitpack</w>
+      <w>kfnn</w>
+      <w>malengatiger</w>
       <w>mvnw</w>
       <w>npservices</w>
       <w>npsx</w>
@@ -13,7 +15,10 @@
       <w>paymentplatform</w>
       <w>paypal</w>
       <w>pubsub</w>
+      <w>ssms</w>
       <w>webhook</w>
+      <w>xcpu</w>
+      <w>xpring</w>
     </words>
   </dictionary>
 </component>
